@@ -2,7 +2,7 @@
 
 <br>
 
-## 💻 **15+ Years of WordPress Experience**
+### 💻 **15+ Years of WordPress Experience**
 
 <a href="https://www.linkedin.com/in/abubakar89/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="32px" style="height:32px !important "></a>
 
@@ -12,7 +12,7 @@
 
 <br>
 
-## 💼 **Agency Partnerships**
+### 💼 **Agency Partnerships**
 
 <br>
 
@@ -22,11 +22,11 @@
 
 ---
 
-## ⚙️ **WordPress Expertise**
+### ⚙️ **WordPress Expertise**
 
 <br>
 
-### **Architecture & Planning**
+#### **Architecture & Planning**
 
 *Laying the foundation for scalable, maintainable, and high-performing WordPress ecosystems.*   
 
