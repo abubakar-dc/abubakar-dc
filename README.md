@@ -4,7 +4,7 @@
 
 ### 💻 **15+ Years of Enterprise WordPress Experience**
 
-<a href="https://www.linkedin.com/in/abubakar89/"><img src="https://img.shields.io/badge/Let's_Connect_on-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="32px" style="height:32px !important "></a>
+<a href="https://www.linkedin.com/in/abubakar89/"><img src="https://img.shields.io/badge/Let's_Connect_on-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28px" style="height:28px !important "></a>
 
 #### I help 🌍 Purpose-Led WordPress Agencies Build 🚀 High-Performance, 🌱 Sustainable, ♿ Accessible & ⚙️ SEO-Optimized WordPress Builds
 
@@ -276,7 +276,7 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/abubakar89/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="32"></a>
+<a href="https://www.linkedin.com/in/abubakar89/"><img src="https://img.shields.io/badge/Let's_Connect_on-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28px" style="height:28px !important "></a>
 
 <br>
 
