@@ -26,13 +26,13 @@
 
 <br>  
 
-🔍 **WordPress Audit** <br> &nbsp;  &nbsp;  &nbsp; CMS, Performance, SEO, and Accessibility evaluations with actionable insights
+🔍 **WordPress Audit**
 
-💡 **Discovery & Roadmapping** <br> &nbsp;  &nbsp;  &nbsp; Identify requirements, define solutions, and recommend best approach  
+💡 **Discovery & Roadmapping** 
 
-🎨 **Design Systems** <br> &nbsp;  &nbsp;  &nbsp; Tokenized UI, reusable components, and scalable design libraries  
+🎨 **Design Systems** 
 
-🧩 **CMS Planning** <br> &nbsp;  &nbsp;  &nbsp; Information architecture, content modeling, and editorial workflow design  
+🧩 **CMS Planning**
 
 <br>
 
