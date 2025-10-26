@@ -1,6 +1,6 @@
 <img src="gb-banner.png" alt="Muhammad AbuBakar | 15+ Years of WordPress Experience" />
 
-### 💻 **15+ Years of WordPress Experience**
+## 💻 **15+ Years of WordPress Experience**
 
 <a href="https://www.linkedin.com/in/abubakar89/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="32px" style="height:32px !important "></a>
 
@@ -9,18 +9,18 @@
 ---
 
 
-### 💼 **Agency Partnerships**
+## 💼 **Agency Partnerships**
 
 #### I work with **top-tier WordPress agencies** as a **development partner**, extending their capacity with **enterprise-grade WordPress development services**.  
 
 
 ---
 
-### ⚙️ **WordPress Expertise**
+## ⚙️ **WordPress Expertise**
 
 <br>
 
-#### 🧭 **Architecture & Planning**
+### 🧭 **Architecture & Planning**
 
 *Laying the foundation for scalable, maintainable, and high-performing WordPress ecosystems.*  
 
@@ -36,7 +36,7 @@
 
 <br>
 
-#### 🧩 **WordPress Design & Development**
+### 🧩 **WordPress Design & Development**
 
 *Building custom, enterprise-grade WordPress solutions with modern development workflows.*
 
@@ -56,7 +56,7 @@
 
 <br>
 
-#### 🧱 **Enterprise & Multisite Solutions**
+### 🧱 **Enterprise & Multisite Solutions**
 
 *Scaling WordPress for complex organizations and multi-brand ecosystems.*
 
@@ -70,7 +70,7 @@
 
 <br>
 
-#### 🚀 **Optimization & Maintenance**
+### 🚀 **Optimization & Maintenance**
 
 *Maximizing speed, accessibility, and reliability through continuous optimization and care.*
 
@@ -89,7 +89,7 @@
 
 ---
 
-#### 🧰 **Things I Work With**
+### 🧰 **Things I Work With**
 
 ---
 
@@ -237,21 +237,18 @@
 ![Google Tag Manager](https://img.shields.io/badge/Tag_Manager-246FDB?style=flat&logo=googletagmanager&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=looker&logoColor=white)
 
-#### **Design**
-
+**Design**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
 
-#### **Automation**
-
+**Automation**
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
 ![Make (Integromat)](https://img.shields.io/badge/Make_(Integromat)-2D9BF0?style=flat&logo=make&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-AE8CFF?style=flat&logo=n8n&logoColor=white)
 
-#### **Collaboration**
-
+**Collaboration**
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
 ![Asana](https://img.shields.io/badge/Asana-F06A6A?style=flat&logo=asana&logoColor=white)
@@ -262,7 +259,7 @@
 ---
 
 
-### 📫 **Let’s Connect** 
+## 📫 **Let’s Connect** 
 
 <a href="https://www.linkedin.com/in/abubakar89/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="32"></a>
 
