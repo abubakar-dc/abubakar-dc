@@ -20,6 +20,8 @@
 
 ### ⚙️ **WordPress Expertise**
 
+---
+
 <br>
 
 ### **Architecture & Planning**
@@ -93,6 +95,8 @@
 ---
 
 ### 🧰 **Things I Work With**
+
+---
 
 <br>
 
@@ -266,11 +270,13 @@
 
 ## 📫 **Let’s Connect** 
 
+---
+
 <br>
 
 <a href="https://www.linkedin.com/in/abubakar89/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="32"></a>
 
 <br>
 
----
+
 
