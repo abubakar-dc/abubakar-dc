@@ -22,8 +22,6 @@
 
 ---
 
-<br>
-
 ### **Architecture & Planning**
 
 *Laying the foundation for scalable, maintainable, and high-performing WordPress ecosystems.*   
@@ -97,8 +95,6 @@
 ### 🧰 **Things I Work With**
 
 ---
-
-<br>
 
 #### **Code**
 
@@ -266,13 +262,13 @@
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat&logo=clickup&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
 
----
-
-## 📫 **Let’s Connect** 
-
----
-
 <br>
+
+---
+
+### 📫 **Let’s Connect** 
+
+---
 
 <a href="https://www.linkedin.com/in/abubakar89/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="32"></a>
 
