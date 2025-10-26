@@ -42,17 +42,17 @@
 
 <br> 
 
-🧱 **Theme Development** <br> &nbsp;  &nbsp;  &nbsp; Custom, scalable, and maintainable WordPress builds  
+🧱 **Theme Development**
 
-🔲 **Gutenberg Development** <br> &nbsp;  &nbsp;  &nbsp; Bespoke blocks, reusable components, and block patterns  
+🔲 **Gutenberg Development**  
 
-🔗 **Headless Development** <br> &nbsp;  &nbsp;  &nbsp; REST & GraphQL integration with React or Next.js frontends  
+🔗 **Headless Development**
 
-🛫 **WordPress Migrations** <br> &nbsp;  &nbsp;  &nbsp; Seamless site transfers, version upgrades, and platform consolidation  
+🛫 **WordPress Migrations**
 
-🎨 **WordPress Redesign** <br> &nbsp;  &nbsp;  &nbsp; Modern, UX-driven redesigns focused on usability, performance, and conversion  
+🎨 **WordPress Redesign**
 
-⚙️ **DevOps & Automation** <br> &nbsp;  &nbsp;  &nbsp; CI/CD pipelines, GitHub Actions, version-controlled deployments, and automated workflows  
+⚙️ **DevOps & Automation**
 
 <br>
 
@@ -62,11 +62,11 @@
 
 <br>  
 
-🌐 **Multisite Networks** <br> &nbsp;  &nbsp;  &nbsp; Centralized management for multi-brand ecosystems  
+🌐 **Multisite Networks** 
 
-🏢 **Enterprise WordPress** <br> &nbsp;  &nbsp;  &nbsp; Scalable architecture with advanced caching and deployment pipelines  
+🏢 **Enterprise WordPress** 
 
-🔌 **API Integrations** <br> &nbsp;  &nbsp;  &nbsp; REST, GraphQL, and third-party service integrations for complex environments  
+🔌 **API Integrations**
 
 <br>
 
@@ -76,15 +76,15 @@
 
 <br>  
 
-⚡ **Performance Optimization** <br> &nbsp;  &nbsp;  &nbsp; Core Web Vitals, caching layers, and green hosting workflows  
+⚡ **Performance Optimization**
 
-♿ **Accessibility Implementation** <br> &nbsp;  &nbsp;  &nbsp; WCAG 2.2 AA compliance and inclusive design practices  
+♿ **Accessibility Implementation**
 
-🔍 **Technical SEO Optimization** <br> &nbsp;  &nbsp;  &nbsp; Schema markup, structured data, and semantic architecture  
+🔍 **Technical SEO Optimization**
 
-🔒 **Security Hardening** <br> &nbsp;  &nbsp;  &nbsp; Safe architecture, regular audits, and proactive vulnerability checks  
+🔒 **Security Hardening**
 
-🛠️ **Ongoing Maintenance** <br> &nbsp;  &nbsp;  &nbsp; Uptime monitoring, activity logs, and database health tuning  
+🛠️ **Ongoing Maintenance**
 
 
 ---
@@ -238,17 +238,20 @@
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=looker&logoColor=white)
 
 **Design**
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
 
 **Automation**
+
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
 ![Make (Integromat)](https://img.shields.io/badge/Make_(Integromat)-2D9BF0?style=flat&logo=make&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-AE8CFF?style=flat&logo=n8n&logoColor=white)
 
 **Collaboration**
+
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
 ![Asana](https://img.shields.io/badge/Asana-F06A6A?style=flat&logo=asana&logoColor=white)
