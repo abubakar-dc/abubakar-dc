@@ -18,9 +18,13 @@
 
 ## ⚙️ **WordPress Expertise**
 
+<br>
+
 ### **Architecture & Planning**
 
 *Laying the foundation for scalable, maintainable, and high-performing WordPress ecosystems.*   
+
+<br>
 
 🔍 **WordPress Audit**
 
@@ -30,9 +34,13 @@
 
 🧩 **CMS Planning**
 
+<br>
+
 ### **WordPress Design & Development**
 
 *Building custom, enterprise-grade WordPress solutions with modern development workflows.*
+
+<br>
 
 🧱 **Theme Development**
 
@@ -78,10 +86,13 @@
 
 🛠️ **Ongoing Maintenance**
 
+<br>
 
 ---
 
 ## 🧰 **Things I Work With**
+
+<br>
 
 #### **Code**
 
@@ -253,7 +264,11 @@
 
 ## 📫 **Let’s Connect** 
 
+<br>
+
 <a href="https://www.linkedin.com/in/abubakar89/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="32"></a>
+
+<br>
 
 ---
 
