@@ -6,15 +6,11 @@
 
 <a href="https://www.linkedin.com/in/abubakar89/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="32px" style="height:32px !important "></a>
 
-<br>
-
 #### I help 🌍 Purpose-Led WordPress Agencies Build 🚀 High-Performance, 🌱 Sustainable, ♿ Accessible & ⚙️ SEO-Optimized WordPress Builds
 
 <br>
 
 ### 💼 **Agency Partnerships**
-
-<br>
 
 #### I work with **top-tier WordPress agencies** as a **development partner**, extending their capacity with **enterprise-grade WordPress development services**.  
 
@@ -26,7 +22,7 @@
 
 <br>
 
-#### **Architecture & Planning**
+### **Architecture & Planning**
 
 *Laying the foundation for scalable, maintainable, and high-performing WordPress ecosystems.*   
 
