@@ -1,10 +1,8 @@
-## Hi there 👋
-
 <img src="gb-banner.png" alt="Muhammad AbuBakar | 15+ Years of WordPress Experience" />
 
 ### 💻 **15+ Years of WordPress Experience**
 
-<a href="https://www.linkedin.com/in/abubakar89/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="32"></a>
+<a href="https://www.linkedin.com/in/abubakar89/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="32px" style="height:32px !important "></a>
 
 #### I help 🌍 Purpose-Led WordPress Agencies Build 🚀 High-Performance, 🌱 Sustainable, ♿ Accessible & ⚙️ SEO-Optimized WordPress Builds
 
