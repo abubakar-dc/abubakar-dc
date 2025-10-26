@@ -18,13 +18,9 @@
 
 ## ⚙️ **WordPress Expertise**
 
-<br>
+### **Architecture & Planning**
 
-### 🧭 **Architecture & Planning**
-
-*Laying the foundation for scalable, maintainable, and high-performing WordPress ecosystems.*  
-
-<br>  
+*Laying the foundation for scalable, maintainable, and high-performing WordPress ecosystems.*   
 
 🔍 **WordPress Audit**
 
@@ -34,13 +30,9 @@
 
 🧩 **CMS Planning**
 
-<br>
-
-### 🧩 **WordPress Design & Development**
+### **WordPress Design & Development**
 
 *Building custom, enterprise-grade WordPress solutions with modern development workflows.*
-
-<br> 
 
 🧱 **Theme Development**
 
@@ -56,7 +48,7 @@
 
 <br>
 
-### 🧱 **Enterprise & Multisite Solutions**
+### **Enterprise & Multisite Solutions**
 
 *Scaling WordPress for complex organizations and multi-brand ecosystems.*
 
@@ -89,9 +81,7 @@
 
 ---
 
-### 🧰 **Things I Work With**
-
----
+## 🧰 **Things I Work With**
 
 #### **Code**
 
@@ -260,7 +250,6 @@
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
 
 ---
-
 
 ## 📫 **Let’s Connect** 
 
